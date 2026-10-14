@@ -3,7 +3,7 @@ def calculate_grade(average):
         return "A"
     elif average >= 60:
         return "B"
-    elif average >= 50:
+    elif average >= 51:
         return "C"
     elif average >= 45:
         return "D"
